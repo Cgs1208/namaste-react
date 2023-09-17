@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "\"This is Namsate react\"",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cgs1208/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Charan GS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cgs1208/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Cgs1208/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
